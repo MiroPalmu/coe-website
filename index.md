@@ -1,44 +1,38 @@
 ---
-layout: home
-title: ""
+layout: splash
+title: "Center of Excellence in Neutron-Star Physics"
 classes: wide
-author_profile: true
+author_profile: false
 sidebar:
   nav: "general"
 header:
   overlay_image: /assets/images/fig_banner.jpeg
+excerpt: "Towards holistic understanding of neutron stars."
 entries_layout: grid
-pi_gallery:
-  - url: assets/images/bio-photo.jpg
-    image_path: assets/images/bio-photo.jpg
+intro: 
+  - excerpt: 'Welcome to the webpage of the Finnish Centre of Excellence in Neutron-Star Physics.'
+feature_row:
+  - image_path: assets/images/bio-photo.jpg
     title: "Aleksi Vuorinen"
-    caption: "Director, Professor of Particle Physics, University of Helsinki."
-  - url: assets/images/bio-photo.jpg
-    image_path: assets/images/bio-photo.jpg
+    excerpt: "Director, Professor of Particle Physics, University of Helsinki."
+  - image_path: assets/images/bio-photo.jpg
     title: "Anu Kankainen"
-    caption: "Vice-Director, Professor of Experimental Nuclear Physics, University of Jyväskylä"
-  - url: assets/images/bio-photo.jpg
-    image_path: assets/images/bio-photo.jpg
+    excerpt: "Vice-Director, Professor of Experimental Nuclear Physics, University of Jyväskylä"
+  - image_path: assets/images/bio-photo.jpg
     title: "Joonas Nättilä"
-    caption: "Associate Professor of Astrophysics, University of Helsinki"
-  - url: assets/images/bio-photo.jpg
-    image_path: assets/images/bio-photo.jpg
+    excerpt: "Associate Professor of Astrophysics, University of Helsinki"
+  - image_path: assets/images/bio-photo.jpg
     title: "Juri Poutanen"
-    caption: "Professor of Astrophysics, University of Turku"
-  - url: assets/images/bio-photo.jpg
-    image_path: assets/images/bio-photo.jpg
+    excerpt: "Professor of Astrophysics, University of Turku"
+  - image_path: assets/images/bio-photo.jpg
     title: "Markus Kortelainen "
-    caption: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"
+    excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"
 ---
 
 
-# [Center of Excellence](/about)
+{% include feature_row id="intro" type="center" %}
 
-{: .text-justify}
-Welcome to the webpage of the Finnish Centre of Excellence in Neutron-Star Physics. 
-
-{% include gallery id="pi_gallery" class="third" caption="" %}
-
+{% include feature_row %}
 
 ---
 

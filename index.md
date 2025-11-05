@@ -1,0 +1,48 @@
+---
+layout: home
+title: ""
+classes: wide
+author_profile: true
+sidebar:
+  nav: "general"
+header:
+  overlay_image: /assets/images/fig_banner.jpeg
+entries_layout: grid
+pi_gallery:
+  - url: assets/images/bio-photo.jpg
+    image_path: assets/images/bio-photo.jpg
+    title: "Aleksi Vuorinen"
+    caption: "Director, Professor of Particle Physics, University of Helsinki."
+  - url: assets/images/bio-photo.jpg
+    image_path: assets/images/bio-photo.jpg
+    title: "Anu Kankainen"
+    caption: "Vice-Director, Professor of Experimental Nuclear Physics, University of Jyväskylä"
+  - url: assets/images/bio-photo.jpg
+    image_path: assets/images/bio-photo.jpg
+    title: "Joonas Nättilä"
+    caption: "Associate Professor of Astrophysics, University of Helsinki"
+  - url: assets/images/bio-photo.jpg
+    image_path: assets/images/bio-photo.jpg
+    title: "Juri Poutanen"
+    caption: "Professor of Astrophysics, University of Turku"
+  - url: assets/images/bio-photo.jpg
+    image_path: assets/images/bio-photo.jpg
+    title: "Markus Kortelainen "
+    caption: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"
+---
+
+
+# [Center of Excellence](/about)
+
+{: .text-justify}
+Welcome to the webpage of the Finnish Centre of Excellence in Neutron-Star Physics. 
+
+{% include gallery id="pi_gallery" class="third" caption="" %}
+
+
+---
+
+## News
+
+- 29.10.2025 Center of Excellence selected and ranked 1st in the panel!
+

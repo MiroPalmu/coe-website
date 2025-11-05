@@ -17,10 +17,8 @@ title: Centre of Excellence in Neutron-Star Physics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Finnish Center of Excellence cluster in Neutron-Star Physics.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: "contrast"
 search: true
+minimal_mistakes_skin: "contrast"
 
 # Build settings
 markdown: kramdown

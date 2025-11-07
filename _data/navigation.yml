@@ -1,9 +1,9 @@
 main:
   - title: "Jobs"
     url: /jobs/
-  - title: "events"
+  - title: "Events"
     url: /events/
-  - title: "groups"
+  - title: "Groups"
     url: /tags/
-  - title: "neutron stars"
+  - title: "Neutron stars"
     url: /neutronstars/

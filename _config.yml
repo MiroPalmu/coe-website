@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Neutron Stars"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Center of Excellence focusing on holistic understanding of neutron stars"
   links:
     - label: "Website"

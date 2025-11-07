@@ -13,18 +13,23 @@ feature_row:
   - image_path: assets/images/pi_anu.jpeg
     title: "Anu Kankainen"
     excerpt: "Professor of Experimental Nuclear Physics, University of Jyväskylä, Vice Director"
+    image_style: "object-fit: contain; width: 100%; height: auto;"
   - image_path: assets/images/pi_markus.jpeg
     title: "Markus Kortelainen "
     excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"
+    image_style: "object-fit: contain; width: 100%; height: auto;"
   - image_path: assets/images/pi_joonas.jpeg
     title: "Joonas Nättilä"
     excerpt: "Associate Professor of Astrophysics, University of Helsinki"
+    image_style: "object-fit: contain; width: 100%; height: auto;"
   - image_path: assets/images/pi_juri.jpeg
     title: "Juri Poutanen"
     excerpt: "Professor of Astrophysics, University of Turku"
+    image_style: "object-fit: contain; width: 100%; height: auto;"
   - image_path: assets/images/pi_aleksi.jpeg
     title: "Aleksi Vuorinen"
     excerpt: "Professor of Particle Physics, University of Helsinki, Director"
+    image_style: "object-fit: contain; width: 100%; height: auto;"
 ---
 
 # About 

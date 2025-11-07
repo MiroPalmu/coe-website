@@ -18,10 +18,16 @@ feature_row:
     title: "Markus Kortelainen "
     excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"
     image_style: "width: 400px; height: 200px; object-fit: contain;"
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    url: "groups/#theoretical-nuclear-physics---markus-kortelainen"
   - image_path: "assets/images/pi_joonas.jpeg"
     title: "Joonas Nättilä"
     excerpt: "Associate Professor of Astrophysics, University of Helsinki"
     image_style: "width: 400px; height: 200px; object-fit: contain;"
+    url: "groups/#plasma-astrophysics---joonas-nättilä"
+    btn_label: "Learn More"
+    btn_class: "btn--info"
   - image_path: "assets/images/pi_juri.jpeg"
     title: "Juri Poutanen"
     excerpt: "Professor of Astrophysics, University of Turku"
@@ -30,6 +36,9 @@ feature_row:
     title: "Aleksi Vuorinen"
     excerpt: "Professor of Particle Physics, University of Helsinki, Director"
     image_style: "width: 400px; height: 200px; object-fit: contain;"
+    url: "groups/#theoretical-particle-physics---aleksi-vuorinen"
+    btn_label: "Learn more"
+    btn_class: "btn--info"
 ---
 
 # About 

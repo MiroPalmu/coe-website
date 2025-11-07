@@ -4,6 +4,8 @@ title: "Physics of Neutron Stars"
 toc: true
 ---
 
+Neutron stars are extreme laboratories of physics! You can learn more about neutron stars in on this page.
+
 
 # Introduction
 

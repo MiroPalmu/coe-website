@@ -7,7 +7,7 @@ sidebar:
   nav: "general"
 header:
   overlay_image: /assets/images/fig_banner.jpeg
-  excerpt: "Towards holistic understanding of neutron stars."
+excerpt: "Towards holistic understanding of neutron stars."
 entries_layout: grid
 intro: 
   - excerpt: 'Welcome to the webpage of the Finnish Centre of Excellence in Neutron-Star Physics.'
@@ -34,7 +34,6 @@ feature_row:
 
 {% include feature_row %}
 
----
 
 ## News
 

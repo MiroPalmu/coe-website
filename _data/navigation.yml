@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "Jobs"
+    url: /jobs/
+  - title: "events"
+    url: /events/
+  - title: "groups"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "neutron stars"
+    url: /neutronstars/

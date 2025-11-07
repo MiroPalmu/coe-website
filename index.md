@@ -12,7 +12,7 @@ entries_layout: grid
 feature_row:
   - image_path: assets/images/pi_anu.jpeg
     title: "Anu Kankainen"
-    excerpt: "Professor of Experimental Nuclear Physics, University of Jyväskylä, Vice-Director"
+    excerpt: "Professor of Experimental Nuclear Physics, University of Jyväskylä, Vice Director"
   - image_path: assets/images/pi_markus.jpeg
     title: "Markus Kortelainen "
     excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä"

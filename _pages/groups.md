@@ -6,6 +6,7 @@ toc: true
 
 Center of Excellence in Neutron-Star Physics involves five different research groups studying neutron stars from all perspectives.
 
+![groups](/assets/images/groups.png)
 
 ## Theoretical Particle Physics - Aleksi Vuorinen
 

@@ -253,6 +253,20 @@
   margin-bottom: 2em;
   font-size: 1.125em;
 
+  // grey background
+  //background-color: #f9f9f9;  /* soft gray background */
+  //border: 1px solid #e0e0e0;  /* light border */
+  //border-radius: 6px;
+  //padding: 1.25rem;
+  //box-sizing: border-box;
+
+  // line around 
+  //border: 1px solid #ddd;
+  //border-radius: 6px;
+  //padding: 1rem;
+  //box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  //transition: transform 0.2s ease, box-shadow 0.2s ease;
+
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
@@ -419,6 +433,13 @@
     }
   }
 }
+
+
+.feature__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
 
 /* Place inside an archive layout */
 

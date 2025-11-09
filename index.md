@@ -47,11 +47,25 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-# About 
+## About us
 
-Welcome to _NEUTRONSTARS_ (2026-2033), the first astrophysics-themed Centre of Excellence (CoE) of the Research Council of Finland! The CoE is comprised of five independent research groups, operating at the physics departments of the Universities of [Helsinki](https://www.helsinki.fi/en/faculty-science), [Jyväskylä](https://www.jyu.fi/en/science), and [Turku](https://www.utu.fi/en/university/faculty-of-science).
+{: .text-justify}
+Welcome to _NEUTRONSTARS_ (2026-2033), the first astrophysics-themed Centre of Excellence of the Research Council of Finland! The centre is comprised of five independent research groups, operating at the physics departments of the Universities of [Helsinki](https://www.helsinki.fi/en/faculty-science), [Jyväskylä](https://www.jyu.fi/en/science), and [Turku](https://www.utu.fi/en/university/faculty-of-science).
 
-These pages - that are still under development - will contain topical information of the CoE and its activities, including recent research outputs, job openings, and various events organized by us.
+{: .text-justify}
+These pages - that are still under development - will contain topical information of the centre and its activities, including recent research outputs, [job openings](jobs/), and various [events](events/) organized by us. We also host a curated list of [facts about neutron stars](neutronstars/) for the general public and experts.
+
+
+## Centre of Excellence Program
+
+{: .text-justify}
+Centres of Excellence are at the very cutting edge of science in their fields, carving out new avenues for research, developing creative research environments and innovations, and training new talented researchers for the Finnish research and business sectors.
+
+{: .text-justify}
+The units granted Centre of Excellence status by the Research Council of Finland are scientifically first-rate research communities that have capacity for renewal and high societal impact. Their programmes contribute to the renewal of science by supplying new research topics, new methods and approaches, and new research teams. Thanks to the long-term funding, they effectively works as an incentive for risk-taking and new initiatives in research.
+
+
+## Principal Investigators
 
 {% include feature_row %}
 

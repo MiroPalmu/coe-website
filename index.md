@@ -59,7 +59,7 @@ These pages - that are still under development - will contain topical informatio
 ## Centre of Excellence Program
 
 {: .text-justify}
-Centres of Excellence are at the very cutting edge of science in their fields, carving out new avenues for research, developing creative research environments and innovations, and training new talented researchers for the Finnish research and business sectors.
+The [Finnish Centres of Excellences](https://www.aka.fi/en/research-funding/funding-opportunities2/programmes-and-other-funding-schemes/finnish-centres-of-excellence/) operate at the very cutting edge of science in their fields, carving out new avenues for research, developing creative research environments and innovations, and training new talented researchers for the Finnish research and business sectors.
 
 {: .text-justify}
 The units granted Centre of Excellence status by the Research Council of Finland are scientifically first-rate research communities that have capacity for renewal and high societal impact. Their programmes contribute to the renewal of science by supplying new research topics, new methods and approaches, and new research teams. Thanks to the long-term funding, they effectively works as an incentive for risk-taking and new initiatives in research.

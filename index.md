@@ -40,7 +40,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: "assets/images/pi_aleksi.jpeg"
     title: "Aleksi Vuorinen"
-    excerpt: "Professor of Particle Physics, University of Helsinki, Director <br><br> Vuorinen studies the theoretical particle physics of extremely dense matter using perturbative quantum chromodynamics. He directs the CoE and is involved in the research program that studies the matter in the core of neutron stars."
+    excerpt: "Professor of Particle Physics, University of Helsinki, Director <br><br> Vuorinen studies the properties of dense quark matter with the machinery of perturbative Quantum Chromodynamics. He is responsible for the smooth operation of the CoE and participates in research programs on neutron-star cores, magnetospheres and mergers."
     image_style: "width: 400px; height: 200px; object-fit: contain;"
     url: "groups/#theoretical-particle-physics---aleksi-vuorinen"
     btn_label: "Learn more"

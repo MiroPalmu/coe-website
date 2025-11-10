@@ -40,8 +40,12 @@ High-performance computing solutions and open-source simulation tools are essent
 
 ## Theoretical Nuclear Physics - Markus Kortelainen
 
+![nuclear](/assets/images/kortelainen_nucl.jpg)
+
 {: .text-justify}
 The research group led by PI Markus Kortelainen focuses on development and application of advanced theoretical models for nuclear structure.  At the core of our work lies nuclear density functional theory and energy density functional-based approaches, which serve as the principal framework for our investigations.
+
+![Nature](/assets/images/kortelainen_nature.jpg){: width="400" .align-right}
 
 {: .text-justify}
 Our central research goal is to achieve a universal and predictive description of the properties of finite nuclei and nuclear matter. To achieve this, we employ a variety of nuclear structure models that provide input for astrophysical processes, such as nucleosynthesis and neutron star physics, as well as for tests of fundamental symmetries in physics. We actively collaborate with experimental groups, offering theoretical insights that help interpret newly measured data.

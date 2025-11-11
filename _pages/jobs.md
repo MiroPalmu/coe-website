@@ -4,7 +4,7 @@ title: "Open positions"
 ---
 
 
-We plan open several positions ranging from PhD-level to postdoc to senior researchers in the CoE. You can find the job listings below.
+We plan to open several positions ranging from PhD-level to postdoc to senior researchers in the CoE. You can find the job listings below.
 
 
 ## University of Helsinki

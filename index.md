@@ -19,7 +19,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: "assets/images/pi_markus.jpeg"
     title: "Markus Kortelainen "
-    excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä <br><br> Kortelainen studies the theoretical structure of nucleons in the extreme densities inside neutron stars and leads a reserach program on the high-density  nuclear physics of NSs cores."
+    excerpt: "Professor of Theoretical Nuclear Physics, University of Jyväskylä <br><br> Kortelainen studies the theoretical structure of nucleons in the extreme densities inside neutron stars and leads a research program on the high-density nuclear physics of NSs cores."
     image_style: "width: 400px; height: 200px; object-fit: contain;"
     btn_label: "Learn More"
     btn_class: "btn--info"
@@ -71,6 +71,7 @@ The units granted Centre of Excellence status by the Research Council of Finland
 
 ## News
 
+- 11.11.2025 New postdoctoral and senior researcher positions posted on [jobs page](/jobs)
 - 29.10.2025 Centre of Excellence selected by [Research Council of Finland](https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2025/research-council-of-finland-selects-11-new-centres-of-excellence-in-research/)
 
 

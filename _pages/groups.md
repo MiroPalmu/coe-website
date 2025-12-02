@@ -47,7 +47,7 @@ High-performance computing solutions and open-source simulation tools are essent
 ![lightcurve](/assets/images/poutanen_lightcurve.png)
 
 {: .text-justify}
-The high-energy astrophysics group at the University of Turku, led by PI Juri Poutanen, works on a broad range of topics related to accreting neutron stars. We have been at the forefront of developing atmosphere models for X-ray bursting neutron stars in low-mass X-ray binaries, which are used to constrain the equation of state (EoS) of cold, dense neutron-star matter. We also proposed the method of using pulse profiles of X-ray millisecond pulsars to determine neutron-star parameters—a technique now employed by the NICER team for rotation-powered millisecond pulsars.
+The [high-energy astrophysics group](https://sites.utu.fi/hea/) at the University of Turku, led by PI Juri Poutanen, works on a broad range of topics related to accreting neutron stars. We have been at the forefront of developing atmosphere models for X-ray bursting neutron stars in low-mass X-ray binaries, which are used to constrain the equation of state (EoS) of cold, dense neutron-star matter. We also proposed the method of using pulse profiles of X-ray millisecond pulsars to determine neutron-star parameters—a technique now employed by the NICER team for rotation-powered millisecond pulsars.
 
 
 ![flow](/assets/images/poutanen_flow.png){: width="300" .align-right}

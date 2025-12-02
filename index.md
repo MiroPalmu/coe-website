@@ -35,7 +35,7 @@ feature_row:
     title: "Juri Poutanen"
     excerpt: "Professor of Astrophysics, University of Turku <br><br> Poutanen studies the high-energy astrophysics of isolated and binary neutron stars. He leads a research program on understanding the neutron star surface physics, including observable X-ray emission and accretion dynamics."
     image_style: "width: 400px; height: 200px; object-fit: contain;"
-    url: "groups/"
+    url: "groups/#high-energy-astrophysics---juri-poutanen"
     btn_label: "Learn more"
     btn_class: "btn--info"
   - image_path: "assets/images/pi_aleksi.jpeg"

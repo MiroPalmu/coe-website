@@ -19,6 +19,8 @@ This seminar series will focus on computing, numerics, software development, and
 
 Our goal is to invite leading experts from both academia and industry to Kumpula to give talks a few times each semester.
 
+Seminars are live streamed through [Zoom](https://helsinki.zoom.us/j/8426905018?pwd=ZGcrU3pKRXBsWndxcHpTa3cxcDM0UT09). 
+
 ## Next seminar
 
 - "Destructors and RAII" by Ville Voutilainen from the Qt Group

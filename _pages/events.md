@@ -18,14 +18,15 @@ Seminars are live streamed through Zoom.
 
 ## Next seminar
 
-- **"C++ Destructors and RAII"** by Ville Voutilainen from the Qt Group
-  - Friday, December 12 at 15:15-16
-  - Ville Voutilainen is a Principal Software Engineer working at The Qt Company, and has been programming in C++ as a hobby since 1994 and professionally since 1998. He has been a member of the ISO C++ Standards Committee since 2009, and has authored and implemented various standard proposals over the years.
-  - The talk explains how and why destructors are fundamental and idiomatic, and what RAII is and how and why RAII is also fundamental and idiomatic. The talk covers resource management with the use of destructors and RAII, and also covers cases that are not resource management.
+- New HPC seminars for the Spring 2026 will be announced soon!
 
 
 ## Past seminars
 
+- **"C++ Destructors and RAII"** by Ville Voutilainen from the Qt Group
+  - Friday, December 12 at 15:15-16
+  - Ville Voutilainen is a Principal Software Engineer working at The Qt Company, and has been programming in C++ as a hobby since 1994 and professionally since 1998. He has been a member of the ISO C++ Standards Committee since 2009, and has authored and implemented various standard proposals over the years.
+  - The talk explains how and why destructors are fundamental and idiomatic, and what RAII is and how and why RAII is also fundamental and idiomatic. The talk covers resource management with the use of destructors and RAII, and also covers cases that are not resource management.
 - **"State-of-the-Art Communication Software for Supercomputers and Its Applications"** by Jeff Hammond from NVIDIA
   - Friday, October 31 at 15:15-16
   - [jeffhammond.github.io](https://jeffhammond.github.io/)

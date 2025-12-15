@@ -16,7 +16,7 @@ We plan to open several positions ranging from PhD-level to postdoc to senior re
 
 ## University of Turku
 
-TBA
+- [Postdoctoral Researcher, Senior Research Fellow, and Project Researchers positions](https://ats.talentadore.com/apply/1-2-tutkijatohtorin-erikoistutkijan-sr-tai-projektitutkijan-maaraaikaista-tehtavaa-neutronitahtifysiikan-huippuyksikossa-fysiikan-ja-tahtitieteen-lait/m7lgqd?lang=en) in high-energy astrophysics and neutron-star physics 
 
 ## University of Jyväskylä
 

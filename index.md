@@ -71,7 +71,7 @@ The units granted Centre of Excellence status by the Research Council of Finland
 
 ## News
 
-
+- 16.12.2025 PI Anu Kankainen was awarded the prestigious Academy Professor position
 - 15.12.2025 More job hirings posted on [jobs page](/jobs)
 - 11.11.2025 New postdoctoral and senior researcher positions posted on [jobs page](/jobs)
 - 29.10.2025 Centre of Excellence selected by [Research Council of Finland](https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2025/research-council-of-finland-selects-11-new-centres-of-excellence-in-research/)

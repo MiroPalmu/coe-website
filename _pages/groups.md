@@ -8,7 +8,12 @@ Center of Excellence in Neutron-Star Physics involves five different research gr
 
 ![groups](/assets/images/groups.png)
 
+## Nuclear Astrophysics - Anu Kankainen
+The [research group](https://www.jyu.fi/en/research-groups/exotic-nuclei-and-beams-igisol) led by PI Anu Kankainen focuses on experimental studies of exotic nuclei and their properties. With novel production and ion trapping techniques, we can determine atomic masses of nuclides extremely precisely and determine their nuclear binding energies. So far, we have determined atomic masses for more than 400 nuclides, including more than 70 long-lived excited nuclear states known as isomers. This makes our team as one of the world-leading research groups in such mass measurements. We also explore decay properties of nuclei, e.g., half-lives, that also influence the studied astrophysical processes. Nuclear masses and half-lives serve as key inputs for nucleosynthesis calculations in type I x-ray bursts and neutron-star mergers.
 
+Not all nuclei involved in the astrophysical rapid neutron capture process (r process) are experimentally reachable. Thus, it is crucial to benchmark nuclear models predicting the experimentally inaccessible nuclei and their properties. We actively collaborate with nuclear theory groups, such as the one led by PI Kortelainen. 
+
+For the rapid proton capture (rp process) taking place, e.g. in type I x-ray bursts, the involved nuclei will become experimentally accessible within the coming decade. As such, we have a great opportunity to model the process with improved nuclear data.
 
 
 ## Theoretical Nuclear Physics - Markus Kortelainen

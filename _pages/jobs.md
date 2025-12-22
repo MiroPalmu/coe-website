@@ -21,3 +21,4 @@ We plan to open several positions ranging from PhD-level to postdoc to senior re
 ## University of Jyväskylä
 
 - [Postdoctoral Researcher in Experimental Nuclear Astrophysics](https://ats.talentadore.com/apply/postdoctoral-researcher-in-experimental-nuclear-astrophysics/mMNKkQ)
+- [Postdoctoral Researcher in Nuclear Astrophysics](https://ats.talentadore.com/apply/postdoctoral-researcher-in-nuclear-astrophysics/Dgdrlj)

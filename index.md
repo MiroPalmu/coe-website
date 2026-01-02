@@ -73,6 +73,7 @@ The units granted Centre of Excellence status by the Research Council of Finland
 
 - 16.12.2025 PI Anu Kankainen was awarded the prestigious [Academy Professor position](https://www.jyu.fi/en/news/anu-kankainen-appointed-as-academy-professor)
 - 15.12.2025 More job hirings posted on [jobs page](/jobs)
+- 9.12.2025 Risto Paatelainen from Helsinki was awarded an [ERC Consolidator Grant](https://www.hip.fi/blog/2025/12/12/erc-consolidator-grant-awarded-to-strong-interaction-theorist/)
 - 11.11.2025 New postdoctoral and senior researcher positions posted on [jobs page](/jobs)
 - 29.10.2025 Centre of Excellence selected by [Research Council of Finland](https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2025/research-council-of-finland-selects-11-new-centres-of-excellence-in-research/)
 

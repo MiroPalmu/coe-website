@@ -22,3 +22,5 @@ We plan to open several positions ranging from PhD-level to postdoc to senior re
 
 - [Postdoctoral Researcher](https://ats.talentadore.com/apply/postdoctoral-researcher-in-experimental-nuclear-astrophysics/mMNKkQ) in experimental nuclear astrophysics
 - [Postdoctoral Researcher](https://ats.talentadore.com/apply/postdoctoral-researcher-in-nuclear-astrophysics/Dgdrlj) in nuclear astrophysics
+- [Postdoctoral Researcher](https://ats.talentadore.com/apply/postdoctoral-researcher-in-theoretical-nuclear-physics-nuclear-astrophysics/m7lPKv) in theoretical nuclear astrophysics
+- [Postdoctoral Researcher](https://ats.talentadore.com/apply/postdoctoral-researcher-in-theoretical-nuclear-physics-nuclear-dft/Zy1zeJ) in theoretical nuclear physics

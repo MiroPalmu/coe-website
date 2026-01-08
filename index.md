@@ -58,6 +58,8 @@ These pages - that are still under development - will contain topical informatio
 
 ## Centre of Excellence Program
 
+![rcf-logo](/assets/images/AKA_EN_vaaka_sininen_RGB_web.jpg){: width="300" .align-right}
+
 {: .text-justify}
 The [Finnish Centres of Excellences](https://www.aka.fi/en/research-funding/funding-opportunities2/programmes-and-other-funding-schemes/finnish-centres-of-excellence/) operate at the very cutting edge of science in their fields, carving out new avenues for research, developing creative research environments and innovations, and training new talented researchers for the Finnish research and business sectors.
 

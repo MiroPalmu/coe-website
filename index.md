@@ -49,6 +49,8 @@ feature_row:
 
 ## About us
 
+![coe-logo](/assets/images/logo2.png){: width="400" .align-right}
+
 {: .text-justify}
 Welcome to _NEUTRONSTARS_ (2026-2033), the first astrophysics-themed Centre of Excellence of the Research Council of Finland! The centre is comprised of five independent research groups, operating at the physics departments of the Universities of [Helsinki](https://www.helsinki.fi/en/faculty-science), [Jyväskylä](https://www.jyu.fi/en/science), and [Turku](https://www.utu.fi/en/university/faculty-of-science).
 
@@ -58,7 +60,7 @@ These pages - that are still under development - will contain topical informatio
 
 ## Centre of Excellence Program
 
-![rcf-logo](/assets/images/AKA_EN_vaaka_sininen_RGB_web.jpg){: width="300" .align-right}
+![rcf-logo](/assets/images/aka_logo.jpg){: width="400" .align-right}
 
 {: .text-justify}
 The [Finnish Centres of Excellences](https://www.aka.fi/en/research-funding/funding-opportunities2/programmes-and-other-funding-schemes/finnish-centres-of-excellence/) operate at the very cutting edge of science in their fields, carving out new avenues for research, developing creative research environments and innovations, and training new talented researchers for the Finnish research and business sectors.

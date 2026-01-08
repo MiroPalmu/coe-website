@@ -75,12 +75,12 @@ Among our most recent efforts, we analyze X-ray polarization data from a wide va
 ![loops](/assets/images/vuorinen_loops.png)
 
 {: .text-justify}
-The [research group](https://www.mv.helsinki.fi/home/arjvuori/index.html) of PI Aleksi Vuorinen concentrates on the first-principles description of dense quark matter, expected to be found in the inner cores of massive neutron stars and created in their binary mergers. In this work, we apply the machinery of perturbative thermal quantum field theory, with which we have derived state-of-the-art equations of state (EoSs) for dense quark matter both at vanishing and nonzero temperatures [1]. This work also requires the active development of novel computational tools for high-order thermal-field-theory computations, including the recent introduction of the so-called thermal Loop Tree Duality framework [2] in a line of work led by Risto Paatelainen.
+The [research group](https://www.mv.helsinki.fi/home/arjvuori/index.html) of PI Aleksi Vuorinen concentrates on the first-principles description of dense quark matter, expected to be found in the inner cores of massive neutron stars and created in their binary mergers. In this work, we apply the machinery of perturbative thermal quantum field theory, with which we have derived state-of-the-art equations of state (EoSs) for dense quark matter both at vanishing and nonzero temperatures. This work also requires the active development of novel computational tools for high-order thermal-field-theory computations, including the recent introduction of the so-called thermal Loop Tree Duality framework in a line of work led by Risto Paatelainen.
 
 
 ![qm](/assets/images/vuorinen_qm.png){: width="300" .align-right}
 
 {: .text-justify}
-We also apply these methods to phenomenological studies of the neutron-star-matter EoS, where we have actively developed model-agnostic, data-driven approaches to equation-of-state inference, incorporating information from theoretical calculations within nuclear and quark matter as well as astrophysical observations. Notably, we were the first group to apply the tidal-deformability constraints from the GW170817 merger to EoS inference [3], and the first to provide a quantitative and model-independent case for the presence of quark-matter cores in massive neutron stars [4,5].
+We also apply these methods to phenomenological studies of the neutron-star-matter EoS, where we have actively developed model-agnostic, data-driven approaches to equation-of-state inference, incorporating information from theoretical calculations within nuclear and quark matter as well as astrophysical observations. Notably, we were the first group to apply the tidal-deformability constraints from the GW170817 merger to EoS inference, and the first to provide a quantitative and model-independent case for the presence of quark-matter cores in massive neutron stars.
 
 

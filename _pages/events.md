@@ -18,7 +18,10 @@ Seminars are live streamed through Zoom.
 
 ## Next seminar
 
-- New HPC seminars for the Spring 2026 will be announced soon!
+- **"A collection of tricks to efficiently run massive simulations on HPC machines: The Vlasiator perspective"** by Dr. Urs Ganse
+  - Friday, February 13 at 15:15-16, 2026
+  - E207, Physicum, Gustaf Hällströmin katu 2, Helsinki
+  - This time our speaker is Dr. Urs Ganse from the Space Physics research group at University of Helsinki. There he leads the modeling efforts through kinetic simulation of the near-Earth plasma environment. This includes, among other things, development of a 6-dimensional Vlasov theory-based HPC simulation called Vlasiator.
 
 
 ## Past seminars

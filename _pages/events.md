@@ -6,8 +6,12 @@ toc: true
 
 Upcoming and past events will be posted here.
 
-
-
+# Centre of Excellence Seminars
+-**"The role of Nuclear Physics in the evolution of Accreting Neutron Star Crusts"** by Dr. Rahul Jain (Lawrence Livermore National Laboratory)
+  - Tuesday, February 17, 2026 at 10:15
+  - FYS3, Department of Physics, University of Jyväskylä
+  - Also via [Zoom](https://jyufi.zoom.us/j/68210342335?pwd=lO7braMvrhnpanTjPkbM9U3R3yws16.1), Passcode: NS2026
+    
 # High-Performance Computing in Sciences
 
 ![hpc](/assets/images/events_hpc_jeff.jpg)
@@ -41,7 +45,7 @@ Seminars are live streamed through Zoom.
 
 ## Upcoming
 
-- 2026, April: Centre of Excellence kick-off meeting
+- 2026, 30 Mar - 2 Apr: Centre of Excellence kick-off meeting
 
 
 ## Past events

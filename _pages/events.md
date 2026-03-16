@@ -32,7 +32,7 @@ Seminars are live streamed through Zoom.
 
 ## Past seminars
 
--**"The role of Nuclear Physics in the evolution of Accreting Neutron Star Crusts"** by Dr. Rahul Jain (Lawrence Livermore National Laboratory). Tuesday, February 17, 2026 at 10:15, FYS3 (and Zoom), Department of Physics, University of Jyväskylä
+- **"The role of Nuclear Physics in the evolution of Accreting Neutron Star Crusts"** by Dr. Rahul Jain (Lawrence Livermore National Laboratory). Tuesday, February 17, 2026 at 10:15, FYS3 (and Zoom), Department of Physics, University of Jyväskylä
     
 - **"C++ Destructors and RAII"** by Ville Voutilainen from the Qt Group
   - Friday, December 12 at 15:15-16

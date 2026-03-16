@@ -10,10 +10,7 @@ Upcoming and past events will be posted here.
 
 ## Next seminar
 
--**"The role of Nuclear Physics in the evolution of Accreting Neutron Star Crusts"** by Dr. Rahul Jain (Lawrence Livermore National Laboratory)
-  - Tuesday, February 17, 2026 at 10:15
-  - FYS3, Department of Physics, University of Jyväskylä
-  - Also via [Zoom](https://jyufi.zoom.us/j/68210342335?pwd=lO7braMvrhnpanTjPkbM9U3R3yws16.1), Passcode: NS2026
+
 
 ## Past seminars
 
@@ -35,6 +32,10 @@ Seminars are live streamed through Zoom.
 
 ## Past seminars
 
+-**"The role of Nuclear Physics in the evolution of Accreting Neutron Star Crusts"** by Dr. Rahul Jain (Lawrence Livermore National Laboratory)
+  - Tuesday, February 17, 2026 at 10:15
+  - FYS3, Department of Physics, University of Jyväskylä
+    
 - **"C++ Destructors and RAII"** by Ville Voutilainen from the Qt Group
   - Friday, December 12 at 15:15-16
   - Ville Voutilainen is a Principal Software Engineer working at The Qt Company, and has been programming in C++ as a hobby since 1994 and professionally since 1998. He has been a member of the ISO C++ Standards Committee since 2009, and has authored and implemented various standard proposals over the years.
